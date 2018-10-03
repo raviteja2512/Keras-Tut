@@ -1,2 +1,2 @@
 # Keras-Tut
-Sentiment analysis 
+Sentiment analysis using Keras 
